@@ -7,7 +7,7 @@ This project implements a **Deep Learning model** to predict drug-target binding
 ---
 
 ## Summary of Code
-
+read the DeepDTA_ Predicting Protein-Target Binding Affinity Using Deep Learning.pdf for summary of the work
 ### Data Processing
 1. **`preprocess_merge_data.py`**  
    Merges the Deloitte dataset with BindingDB batches based on `pubchem_cid`.  
