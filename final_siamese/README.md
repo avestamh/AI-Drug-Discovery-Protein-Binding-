@@ -5,7 +5,7 @@ This repository contains a machine learning workflow for predicting protein-liga
 ---
 
 ## Summary of the Workflow
-
+Report on Protein-Ligand Binding Prediction Using a Siamese Neural Network.pdf file explain  the introduction, workflow and results
 ### 1. Data Extraction
 
 Extracted molecular features from the `BindingDB_All_2D.sdf` file using the following script:
