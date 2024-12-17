@@ -16,7 +16,7 @@ extract_bindingdb_data.py
 
 ### 2. Data Merging
 
-Merged the Deloitte dataset with BindingDB features using:
+Merged the Dltt dataset with BindingDB features using:
 
 ```bash
 preprocess_merge_data.py
