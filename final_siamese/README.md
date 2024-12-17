@@ -49,7 +49,9 @@ main.py
 ### 6. Inference and Evaluation
 
 Tested the model on selected pairs and evaluated predictions.
-
+```bash
+test_inference_true_rows.py
+```
 ---
 
 ## Files Overview
