@@ -1,6 +1,6 @@
 ##  Project Overview
 
-          deep learning model for predicting drug-target affinity
+          deep learning model for predicting proteing-molecule affinity
 
 ## Summary of Code
 
