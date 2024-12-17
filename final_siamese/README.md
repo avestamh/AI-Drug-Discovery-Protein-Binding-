@@ -23,7 +23,7 @@ preprocess_merge_data.py
 ```
 
 ### 3. Sequence Addition
-
+This one not used for this model (may add in future)
 Added protein sequences to the dataset to enhance the feature set with:
 
 ```bash
@@ -81,18 +81,19 @@ test_inference_true_rows.py
    ```
 
 3. **Add Protein Sequences**:
+   skip this for now
 
    ```bash
    python add_seq.py
    ```
 
-4. **Preprocess Data**:
+5. **Preprocess Data**:
 
    ```bash
    python data_utils.py
    ```
 
-5. **Train the Model**:
+6. **Train the Model**:
 
    ```bash
    python main.py
