@@ -3,7 +3,7 @@
 This repository contains two distinct machine learning approaches for predicting protein-ligand binding interactions. Each approach has its own folder, codebase, and corresponding report.
 
 ## **Folder Structure**
-**Note:** I could not upload the saved model files: **use_False_data.pth** and **use_True_data.pth**
+**Note:** I could not upload the saved model files: **use_False_data.pth** and **use_True_data.pth** due to size restriction
 
 ### 1. **`final_siamese`**
 
