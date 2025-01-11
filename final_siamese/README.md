@@ -108,7 +108,3 @@ test_inference_true_rows.py
   ```bash
   pip install numpy pandas torch scikit-learn
   ```
-
----
-
-This `README.md` provides a clear overview of the workflow and corresponding scripts. Happy coding! 🚀
