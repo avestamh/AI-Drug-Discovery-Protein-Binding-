@@ -41,7 +41,3 @@ This file contains the **comprehensive report** summarizing both the **Siamese N
 ## **Summary**
 
 Each folder contains the necessary code, data preprocessing scripts, and a detailed report explaining the approach, methodology, and results. The **final_report** consolidates both approaches into a comprehensive analysis, providing insights into the advantages of each model and suggestions for future work.
-
----
-
-This structure ensures clarity, reproducibility, and ease of navigation for anyone reviewing or running the code.
