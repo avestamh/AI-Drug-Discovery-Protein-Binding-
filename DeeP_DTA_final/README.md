@@ -99,9 +99,3 @@ read the DeepDTA_ Predicting Protein-Target Binding Affinity Using Deep Learning
 
 3. **Graph Neural Networks**:
    - Consider using GNNs for richer drug molecule representations.
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
