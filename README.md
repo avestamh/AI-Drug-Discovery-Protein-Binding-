@@ -1,6 +1,6 @@
 # **Protein-Ligand Binding Prediction Project**
 
-This repository contains two distinct machine-learning approaches for predicting protein-ligand binding interactions. Each approach has its own folder, codebase, and corresponding report.
+This repository contains two distinct machine-learning approaches for predicting protein-ligand binding interactions. Each approach has its own folder, codebase, and corresponding report.\
 Model 1: Siamese Neural Network used for binary classification method
 Model 2: DEEPMHADTA which is a regression method used to calculate the binding affinity between protein and drug
 
